@@ -1,0 +1,39 @@
+/*body{*/
+/*    background: aquamarine;*/
+/*}*/
+
+table{
+    text-align: center;
+    font-family: "Microsoft YaHei UI";
+    border-collapse: collapse;
+    background: #ccc;
+    margin: 10px auto;
+}
+th,td{
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+th{
+    background: #eee;
+    font-weight: normal;
+}
+tr{
+    background: #fff;
+}
+tr:hover{
+    background: #cc0;
+}
+td a{
+    color: #06f;
+    text-decoration: none;
+}
+td a:hover{
+    color: #06f;
+    text-decoration: underline;
+}
+
+/*a:visited {*/
+/*    color:#00FF00;*/
+/*}*/
